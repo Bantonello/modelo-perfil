@@ -1,0 +1,33 @@
+body {
+  background-color:purple;
+  font: normal 15pt Arial;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+section {
+  background-color: white;
+  border-radius: 15px;
+  padding: 15px;
+  width: 250px;
+  margin: auto ;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.377);
+}
+
+div p#name {
+  text-align: center;
+}
+
+div#img img {
+  width: 250px;
+  border-radius:50%;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
